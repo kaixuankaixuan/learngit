@@ -1,2 +1,6 @@
 i like study
-creat a new branch is quick & simple
+<<<<<<< HEAD
+creat a new branch is quick and simple
+=======
+creat a new branch is quick and simple
+>>>>>>> featurel
